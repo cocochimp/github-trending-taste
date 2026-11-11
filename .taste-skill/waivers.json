@@ -1,7 +1,0 @@
-[
-  { "check": "moment-none", "target": "the page", "reason": "Operate 工具界面（数据看板）非营销落地页，无 dealt moment 场景" },
-  { "check": "hero-fill", "target": "main#main > section.pt-6:nth-of-type(2)", "reason": "看板无 hero：首屏是页头+领域分布条，列表按数据自然延伸" },
-  { "check": "one-section", "target": "h2#domain-agent", "reason": "一屏一 section 的滚动节奏规则为营销页结构，看板为连续列表" },
-  { "check": "section-height", "target": "main#main > section.pt-6:nth-of-type(3)", "reason": "section 高度由当日仓库数决定，看板不是一/二屏的分节页面" },
-  { "check": "card-layout", "target": "div.grid.grid-cols-1", "reason": "同一领域内仓库卡片同构是列表约定，非营销卡组需混排" }
-]
